@@ -19,5 +19,3 @@
 **Ключевые результаты:**  
 α ≈ 0.269, β ≈ 0.930, α + β ≈ 1.20 
 
-Открыть интерактивную версию в Google Colab →  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ТВОЙ_НИК/НАЗВАНИЕ_РЕПОЗИТОРИЯ/blob/main/НАЗВАНИЕ_ТВОЕГО_ФАЙЛА.ipynb)
